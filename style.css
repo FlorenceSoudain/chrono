@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+#contenue {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+#chrono {
+    font-size: 40px;
+}
