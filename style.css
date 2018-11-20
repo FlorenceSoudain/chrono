@@ -1,6 +1,13 @@
 h1 {
     text-align: center;
     padding: 20px;
+    background-color: lightseagreen;
+    text-shadow: saddlebrown 1px 1px 1px;
+}
+body {
+    background-color: darkcyan;
+    color: white;
+    font-family: Verdana, sans-serif;
 }
 #contenue {
     display: flex;
@@ -10,4 +17,10 @@ h1 {
 }
 #chrono {
     font-size: 40px;
+}
+button {
+    background-color: lightgreen;
+    width: 130px;
+    height: 30px;
+    margin-top: 20px;
 }
