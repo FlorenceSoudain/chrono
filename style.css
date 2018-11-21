@@ -1,13 +1,15 @@
 h1 {
     text-align: center;
     padding: 20px;
-    background-color: lightseagreen;
+    background-color: darkred;
     text-shadow: saddlebrown 1px 1px 1px;
+    border-radius: 10px;
 }
 body {
-    background-color: darkcyan;
+    background-image: url("background.jpg");
     color: white;
     font-family: Verdana, sans-serif;
+
 }
 #contenue {
     display: flex;
@@ -19,14 +21,11 @@ body {
     font-size: 40px;
 }
 button {
-    background-color: lightgreen;
+    background-color: darkred;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
     width: 130px;
     height: 30px;
     margin-top: 20px;
-}
-#div2 {
-    background-color: lightseagreen;
-    border-radius: 100%;
-    height: 600px;
-    width: 600px;
 }
